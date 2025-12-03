@@ -1,7 +1,3 @@
-# introduction-ds-eda
-Exploratory Data Analysis of a trading card dataset (Python, pandas, visualization).
-
-
 # Exploratory Data Analysis – Trading Card Dataset
 
 This repository contains an exploratory data analysis (EDA) of a trading card dataset, focused on understanding the distribution of card attributes, release patterns, and relationships between different features.
