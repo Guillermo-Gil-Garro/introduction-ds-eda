@@ -8,6 +8,15 @@ This repository contains an exploratory data analysis (EDA) of a trading card da
 
 The goal of this project is to practice end-to-end data exploration using Python, from loading and cleaning the data to generating insights and visualizations that could be useful for product, design or game-balance decisions.
 
+## Quick Look
+
+Some visual summaries from the EDA:
+
+<p align="center">
+  <img src="img/cards_by_color.png" width="45%">
+  <img src="img/rarity_year.png" width="45%">
+</p>
+
 ---
 
 ## 1. Dataset
