@@ -49,12 +49,3 @@ This project demonstrates:
 
 ## Author
 Guillermo Gil Garro
-
-## Quick Look
-
-Some visual summaries from the EDA:
-
-<p align="center">
-  <img src="img/cards_by_color.png" width="45%">
-  <img src="img/rarity_year.png" width="45%">
-</p>
